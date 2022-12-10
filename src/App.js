@@ -5,7 +5,7 @@ import Chart from './chart';
 
 
 const api = {
-  key: '60fc23f6eb38ed48fd4ed4413918f3bd',
+  key: 'private_key',
   base: 'https://api.openweathermap.org/data/2.5/'
 }
 
